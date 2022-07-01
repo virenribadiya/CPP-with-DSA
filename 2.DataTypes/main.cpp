@@ -1,3 +1,5 @@
+//program to know about data types in C++ and use of sizeof() function.
+
 #include<iostream>
 using namespace std;
 
