@@ -1,0 +1,6 @@
+size of integer 4
+size of float 4
+size of character 1
+size of boolean 1
+size of short int 2
+size of ong int 4
