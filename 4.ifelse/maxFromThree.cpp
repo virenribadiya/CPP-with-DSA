@@ -1,3 +1,5 @@
+//program to find maximum from 3 numbers
+
 #include<iostream>
 using namespace std;
 
