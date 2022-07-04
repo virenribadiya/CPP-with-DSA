@@ -1,3 +1,5 @@
+//program using doWhile loop.
+
 #include<iostream>
 using namespace std;
 
