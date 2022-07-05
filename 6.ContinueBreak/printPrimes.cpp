@@ -1,3 +1,5 @@
+// program to print prime number upto given number.
+
 #include<iostream>
 using namespace std;
 int main()
