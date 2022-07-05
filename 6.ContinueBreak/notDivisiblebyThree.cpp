@@ -1,3 +1,5 @@
+//program to check the divisibility of a number by 3.
+
 #include<iostream>
 using namespace std;
 int main()
