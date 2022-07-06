@@ -1,3 +1,5 @@
+// program to make a simple calculator.
+
 #include<iostream>
 using namespace std;
 
