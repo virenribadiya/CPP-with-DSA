@@ -1,3 +1,5 @@
+// Program using Switch cases.
+
 #include<iostream>
 using namespace std;
 
