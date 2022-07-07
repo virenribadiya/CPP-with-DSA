@@ -1,7 +1,9 @@
 //relational operators Defines a realtion bw 2 operands
 // it returns bollean value - ==, !=, >, <, >=, <== 
 
-// program to input a number n and tell whether it is equla to, less than or more than 10
+// program to input a number and tell whether it is equlal to, less than or more than 10. 
+
+
 #include<iostream>
 using namespace std;
 int main()
