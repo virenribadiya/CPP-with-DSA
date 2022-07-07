@@ -2,6 +2,8 @@
 //Binary - +,-,*,/,% - need two operands
 //unary - ++, -- --> postfix and prefix
 
+// program using Operators.
+
 #include<iostream>
 using namespace std;
 int main()
