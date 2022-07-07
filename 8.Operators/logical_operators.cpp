@@ -1,7 +1,7 @@
 //logical operators - used to connect multiple conditions/expressions together or to reverse logical value
 // &&, ||, !
 
-//write a program to output whethr a number is devisible by both 2 and 3 or divisible by only one of them
+//program to output whether a number is devisible by both 2 and 3 or divisible by only one of them.
 
 #include<iostream>
 using namespace std;
