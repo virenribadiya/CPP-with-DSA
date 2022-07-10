@@ -1,3 +1,12 @@
+// Program to print following pattern.
+
+// 1 
+// 0 1
+// 0 1 0
+// 1 0 1 0
+// 1 0 1 0 1
+
+
 #include<iostream>
 using namespace std;
 
