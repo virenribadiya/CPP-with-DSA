@@ -1,3 +1,11 @@
+// Program to print follwing pattern
+
+//     *       *       *       * 
+//   *   *   *   *   *   *   *
+// *       *       *       *
+
+
+
 #include<iostream>
 using namespace std;
 
