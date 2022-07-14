@@ -1,3 +1,7 @@
+// Function - Set of instructions to perform a perticular task.
+
+
+
 /* Syntax of a function
 
 returnType functionName(parameter1,parameter2,...)
