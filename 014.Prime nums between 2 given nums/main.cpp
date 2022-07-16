@@ -1,3 +1,5 @@
+// program to find Prime numbers between two given numbers.
+
 #include<iostream>
 #include<cmath>
 using namespace std;
