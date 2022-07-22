@@ -8,7 +8,7 @@ using namespace std;
 bool check(int x,int y,int z)
 {
     int a,b,c;
-    a=max(x,max(y,z));
+    a=max(x,max(y,z)); //logic for select maximum. 
     if(a==x)
     {
         b=y;
@@ -25,7 +25,7 @@ bool check(int x,int y,int z)
         c=y;
     }
 
-    if(a*a==b*b+c*c)
+    if(a*a==b*b+c*c) // triplet logic.
     {
         return true;
     }
