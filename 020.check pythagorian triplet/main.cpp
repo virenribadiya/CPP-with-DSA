@@ -1,3 +1,7 @@
+// Program to check pythagorian triplet.
+
+
+
 #include<iostream>
 using namespace std;
 
