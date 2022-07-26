@@ -1,3 +1,5 @@
+// Program to find Minimum and Maximum number from Array.
+
 #include<iostream>
 #include<climits>
 using namespace std;
