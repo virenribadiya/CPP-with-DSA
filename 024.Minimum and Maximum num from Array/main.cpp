@@ -31,8 +31,8 @@ int main()
             minNo=a[i];
         }*/
 
-        /*Logic 2*/
-        maxNo=max(maxNo,a[i]);
+        /*Logic 2*/ // using a in-built function.
+        maxNo=max(maxNo,a[i]);  
         minNo=min(minNo,a[i]);
     }
 
