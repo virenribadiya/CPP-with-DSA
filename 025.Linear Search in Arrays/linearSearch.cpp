@@ -5,7 +5,7 @@ using namespace std;
 
 int linearSearch(int array[],int n,int key)
 {
-    //Time complexity = O(n)
+    //Time complexity = O(n) // logic for search.
     for(int i=0;i<n;i++)
     {
         if(array[i]==key)
