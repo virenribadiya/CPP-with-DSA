@@ -1,3 +1,5 @@
+// Linear Search - check the array elements one by one.
+
 #include<iostream>
 using namespace std;
 
