@@ -1,3 +1,6 @@
+// Program to check Prime-Composite using Sqrt function.
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
