@@ -6,9 +6,9 @@ using namespace std;
 
 bool isPrime(int num)
 {
-    for(int i=2;i<=sqrt(num);i++)
+    for(int i=2;i<=sqrt(num);i++) //logic 
     {
-        if(num%i==0)
+        if(num%i==0) 
         {
             return false;
         }
