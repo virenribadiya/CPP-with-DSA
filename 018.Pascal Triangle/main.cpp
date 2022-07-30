@@ -1,3 +1,5 @@
+// Program to print the pascal triangle.
+
 #include<iostream>
 using namespace std;
 
