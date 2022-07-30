@@ -17,7 +17,7 @@ int main()
 {
     int n,r;
     cin>>n>>r;
-    int ans = fact(n)/(fact(n)*fact(n-r));
+    int ans = fact(n)/(fact(n)*fact(n-r)); // calculate the answer by applying the formula and logic of factorial.
     cout<<ans<<endl;
     return 0;
 }
