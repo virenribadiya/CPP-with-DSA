@@ -1,3 +1,5 @@
+// Program to calculate nCr.
+
 #include<iostream>
 using namespace std;
 
