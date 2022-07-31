@@ -1,5 +1,8 @@
 // Program to find sum of first n natural numbers.
 
+// example - find sum of first 5 natural numbers.
+// i.e - 1+2+3+4+5 = 15
+
 #include<iostream>
 using namespace std;
 
