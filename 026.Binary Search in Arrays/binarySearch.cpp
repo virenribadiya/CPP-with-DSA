@@ -1,3 +1,5 @@
+// Program to perform Binary Search.
+
 #include<iostream>
 using namespace std;
 
