@@ -18,7 +18,7 @@ int main()
         cin>>arr[i];
     }
 
-    for(int i=0;i<n-1;i++)
+    for(int i=0;i<n-1;i++) // Logic for Bubble sort.
     {
         for(int j=0;j+1<n;j++)
         {
