@@ -31,7 +31,7 @@ int main()
         }
     }
 
-    for(int i=0;i<n;i++) 
+    for(int i=0;i<n;i++) // printing the sorted array.
     {
         cout<<arr[i];
     }
