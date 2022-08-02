@@ -13,7 +13,7 @@ int main()
     cin>>n;
 
     int arr[n];
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) // taking input from user.
     {
         cin>>arr[i];
     }
@@ -31,7 +31,7 @@ int main()
         }
     }
 
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) 
     {
         cout<<arr[i];
     }
