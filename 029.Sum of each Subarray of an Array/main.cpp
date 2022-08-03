@@ -1,3 +1,8 @@
+/* Subarray 
+    - Continuous part of the array.
+    - No. of subarrays of an array with n elemnts = nC2 + n.
+*/
+
 // Problem - sum of all subarrays of an array having n elements.
 
 #include<iostream>
