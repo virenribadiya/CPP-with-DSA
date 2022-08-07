@@ -5,3 +5,5 @@
 
 
 ![Constraints](https://user-images.githubusercontent.com/108461765/183289255-93bae2ea-8eaa-4f38-90fa-89a48040fa0d.PNG)
+
+![approach](https://user-images.githubusercontent.com/108461765/183289284-52201eea-aa57-4634-a7ce-680d4d2e69c1.PNG)
