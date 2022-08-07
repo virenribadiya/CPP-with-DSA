@@ -4,3 +4,4 @@
 ![inputOutput](https://user-images.githubusercontent.com/108461765/183089823-7a7877c8-3403-4714-bcc0-194e8038a2be.PNG)
 
 
+![Constraints](https://user-images.githubusercontent.com/108461765/183289255-93bae2ea-8eaa-4f38-90fa-89a48040fa0d.PNG)
