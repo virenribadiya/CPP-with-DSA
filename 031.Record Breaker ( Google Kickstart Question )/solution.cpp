@@ -8,7 +8,7 @@ int main()
     int n;
     cin>>n;
     int a[n+1];
-    a[n]=-1;
+    a[n]=-1; // at second last element, the 2nd condition must be true.
 
     for(int i=0;i<n;i++)
     {
