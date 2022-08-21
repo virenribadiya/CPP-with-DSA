@@ -1,3 +1,5 @@
+// Optimised approach due to constraints e.g time complexity = O(n)
+
 #include<iostream>
 using namespace std;
 
