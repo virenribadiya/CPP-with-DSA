@@ -7,12 +7,12 @@ int main()
     int n;
     cin>>n;
     int a[n];
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) // user input
     {
         cin>>a[i];
     }
 
-    const int size=1e6+2;
+    const int size=1e6+2; // taking care of constraints
     int index[size];
 
     for(int i=0;i<size;i++)
