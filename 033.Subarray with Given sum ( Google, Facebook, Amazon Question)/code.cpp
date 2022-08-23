@@ -1,4 +1,5 @@
-// Time Complexity = 0(n)
+// Time Complexity = O(n)
+// Time complexity is optimised from O(n^2) to O(n).
 
 #include<iostream>
 using namespace std;
