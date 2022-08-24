@@ -12,7 +12,7 @@ int main()
         cin>>a[i];
     }
 
-    int N = 1e6+2;
+    int N = 1e6+2; // due to constraint. 
     bool check[N];
     for(int i=0;i<N;i++)
     {
