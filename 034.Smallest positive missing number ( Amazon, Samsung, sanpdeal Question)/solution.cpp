@@ -1,3 +1,5 @@
+// Time complexity = 0(n)
+
 #include<iostream>
 using namespace std;
 
