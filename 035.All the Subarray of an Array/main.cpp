@@ -1,3 +1,5 @@
+// Program to find all the sub array of an array.
+
 #include<iostream>
 using namespace std;
 
