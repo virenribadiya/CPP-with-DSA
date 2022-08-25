@@ -17,7 +17,7 @@ int main()
     {
         for(int end=start;end<n;end++) // loop to select end point of a subarray
         {
-            for(int k=start;k<=end;k++)
+            for(int k=start;k<=end;k++) // loop to print the subarray
             {
                 cout<<a[k]<<" ";
             }
