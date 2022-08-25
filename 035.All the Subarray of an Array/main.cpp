@@ -13,9 +13,9 @@ int main()
         cin>>a[i];
     }
 
-    for(int start=0;start<n;start++) // loop to select start point of an array
+    for(int start=0;start<n;start++) // loop to select start point of a subarray
     {
-        for(int end=start;end<n;end++)
+        for(int end=start;end<n;end++) // loop to select end point of a subarray
         {
             for(int k=start;k<=end;k++)
             {
