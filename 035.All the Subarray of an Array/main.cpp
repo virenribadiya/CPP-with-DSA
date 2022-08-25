@@ -13,7 +13,7 @@ int main()
         cin>>a[i];
     }
 
-    for(int start=0;start<n;start++)
+    for(int start=0;start<n;start++) // loop to select start point of an array
     {
         for(int end=start;end<n;end++)
         {
