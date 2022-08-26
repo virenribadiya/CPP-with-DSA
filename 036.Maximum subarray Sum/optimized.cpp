@@ -1,3 +1,6 @@
+
+// Time Complexity = 0(n^2)
+
 #include<iostream>
 #include<climits>
 using namespace std;
