@@ -16,7 +16,7 @@ int main()
     }
 
     int sum,maxSum=INT_MIN;
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) //starting point selection
     {
         for(int j=i;j<n;j++)
         {
