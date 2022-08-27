@@ -9,14 +9,14 @@ int main()
     int n;
     cin>>n;
     int a[n];
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) //user input
     {
         cin>>a[i];
     }
 
     int maxSum=INT_MIN;
     int currentSum=0;
-    for(int i=0;i<n;i++)
+    for(int i=0;i<n;i++) // kadanes algo
     {
         currentSum=a[i];
         maxSum=max(maxSum,currentSum);
