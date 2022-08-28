@@ -1,8 +1,9 @@
+
 #include<iostream>
 #include<climits>
 using namespace std;
 
-int kadane(int a[],int n)
+int kadane(int a[],int n) //kadanes algorithm
 {
     int maxSum=INT_MIN;
     int curr=0;
