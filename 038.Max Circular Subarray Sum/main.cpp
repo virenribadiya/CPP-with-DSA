@@ -35,7 +35,7 @@ int main()
     for(int i=0;i<n;i++)
     {
         totalSum+=a[i];
-        a[i]=-a[i];
+        a[i]=-a[i]; // sign changing of the elements
     }
 
     wrapSum=totalSum+kadane(a,n);
