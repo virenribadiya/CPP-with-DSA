@@ -6,6 +6,7 @@ using namespace std;
 
 bool pairSum(int a[],int n,int k)
 {
+    //double pointer approach
     int high=n-1;
     int low=0;
 
