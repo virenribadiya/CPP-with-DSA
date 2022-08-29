@@ -11,7 +11,7 @@ bool pairSum(int a[],int n,int k)
         {
             if(a[j]+a[i]==k)
             {
-                cout<<i<<" "<<j<<endl;
+                cout<<i<<" "<<j<<endl; // printing indices of the elements.
                 return true;
             }
         }
