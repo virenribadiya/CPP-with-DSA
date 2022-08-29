@@ -1,4 +1,5 @@
 //Note: for this array must be sorted. 
+// Time Complexity : 0(n)
 
 #include<iostream>
 using namespace std;
