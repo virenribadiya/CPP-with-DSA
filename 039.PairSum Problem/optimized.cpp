@@ -1,6 +1,4 @@
-
-
-
+//Note: for this array must be sorted. 
 
 #include<iostream>
 using namespace std;
