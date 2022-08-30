@@ -16,7 +16,7 @@
             cin>>a[i][j]; 
         }
     }
-
+    // printing the matrix.
     cout<<"Matrix is:"<<endl;
     for(int i=0;i<n;i++)
     {
