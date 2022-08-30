@@ -8,11 +8,12 @@
     int n,m;
     cin>>n>>m;
     int a[n][m]; // declaration of 2D array
+    // user input
     for(int i=0;i<n;i++)
     {
         for(int j=0;j<m;j++)
         {
-            cin>>a[i][j];
+            cin>>a[i][j]; 
         }
     }
 
