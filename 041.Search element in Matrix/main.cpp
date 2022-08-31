@@ -1,4 +1,6 @@
- #include<iostream>
+//  program to search a perticular element in a matrix having n rows and m columns. 
+
+#include<iostream>
  using namespace std;
 
  int main()
