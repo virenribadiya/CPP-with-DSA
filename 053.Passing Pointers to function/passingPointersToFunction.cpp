@@ -13,7 +13,7 @@ void swap(int *a,int *b)
 int main()
 {
     int a=10,b=20;
-    int *aptr=&a,*bptr=&b; 
+    int *aptr=&a,*bptr=&b; // storing address of a inside the pointer variables.
 
     swap(aptr,bptr);
     cout<<a<<" "<<b<<endl;
