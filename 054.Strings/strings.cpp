@@ -13,6 +13,7 @@
 // to_string(integer); -- to convert integr to string. 
 // sort(s1.begin(),s1.end()) --> sort the string from a to z.
 
+// this program contains all most of the useful functions of strings operations.
 #include<iostream>
 #include<algorithm> //sort()
 #include<string>  // append() or s1 = s1+s2
