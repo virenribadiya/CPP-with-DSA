@@ -3,15 +3,15 @@
 // .clear function is used to set the string to empty string.
 // .compare(s2) function gives the positive value if a string is not equal to another string.
 //   it gives zero if both the strings are equal. 
-// .empty() -- it checks the string is empty or not. return one if empty and zero if not empty. 
+// .empty() --> it checks the string is empty or not. return one if empty and zero if not empty. 
 // .erase(index from where we have to start deleting, how many index we have to delete)
 // .find(substring that we have to find) -- gives the index where first element of substring is located.
 // .insert(index at which we have to insert, string that we have to insert)
-// .size() or .length() -- gives the length of the string
+// .size() or .length() --> gives the length of the string
 // .substr(index from where to start, after how many characters that we have to stop)
 // stoi(numeric string) -- to convert numeric string to integer. // double value
 // to_string(integer); -- to convert integr to string. 
-// sort(s1.begin(),s1.end()) -- sort the string from a to z.
+// sort(s1.begin(),s1.end()) --> sort the string from a to z.
 
 #include<iostream>
 #include<algorithm> //sort()
