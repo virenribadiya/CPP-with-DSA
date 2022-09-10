@@ -16,7 +16,7 @@ int main()
     int a=10,b=20;
     int *aptr=&a,*bptr=&b; // storing address of a inside the pointer variables.
 
-    swap(aptr,bptr); // function 
+    swap(aptr,bptr); // function calling
     cout<<a<<" "<<b<<endl;
     return 0;
 }
