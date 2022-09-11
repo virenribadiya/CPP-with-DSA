@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-#include<algorithm>
+#include<algorithm> // for using transform function.
 using namespace std;
 
 int main()
