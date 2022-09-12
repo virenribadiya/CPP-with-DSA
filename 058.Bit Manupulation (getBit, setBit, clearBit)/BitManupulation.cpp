@@ -1,3 +1,5 @@
+// Program containg basic operations of bit manupulation.
+
 #include<iostream>
 using namespace std;
 
