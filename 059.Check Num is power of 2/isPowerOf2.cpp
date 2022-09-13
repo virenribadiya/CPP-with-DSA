@@ -1,3 +1,5 @@
+// program to check number is perfect square or not?
+
 #include<iostream>
 using namespace std;
 
