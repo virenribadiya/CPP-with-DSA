@@ -1,4 +1,4 @@
-
+// Program to print possible subsets of a set.
 #include<iostream>
 using namespace std;
 
