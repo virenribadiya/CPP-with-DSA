@@ -1,3 +1,4 @@
+// program to find least repeating elements from an array.
 
 #include<iostream>
 using namespace std;
