@@ -1,3 +1,5 @@
+// Program to find factorial of a number using recursion.
+
 #include<iostream>
 using namespace std;
 
