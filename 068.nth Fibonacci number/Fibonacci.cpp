@@ -1,4 +1,4 @@
-// Explaination: Fib(position of number)
+// Explaination: Fib(position of number) , Here position starts from zero.
 // Fib(n)=Fib(n-1)+Fib(n-2)
 // Base Condition: Fib(0)=0,Fib(1)=1
 
