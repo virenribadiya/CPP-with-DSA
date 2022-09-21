@@ -12,7 +12,15 @@ bool sorted(int a[], int n)
 
 int main()
 {
-    int a[]={0,2,3,4,5};
-    cout<<sorted(a,5)<<endl;
+    int n;
+    cin>>n;
+    int a[n];
+    for(int i=0;i<n;i++)
+    {
+        cin>>a[i];
+    }
+    cout<<sorted(a,n)<<endl;
+    //int a[]={0,2,3,4,5};
+    //cout<<sorted(a,5)<<endl;
     return 0;
 }
