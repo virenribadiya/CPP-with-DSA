@@ -1,14 +1,15 @@
+// program to print reverse of a string using recursion. 
 
 #include<iostream>
 using namespace std;
 
 void reverseStr(string str)
 {
-    if(str.length()==0)
+    if(str.length()==0) // checking string length.
     {
         return;
     }
-    string rest=str.substr(1);
+    string rest=str.substr(1); // forming substring.
     //cout<<"str="<<str<<endl;
     //cout<<"rest="<<rest<<endl;
     reverseStr(rest);
@@ -18,6 +19,6 @@ void reverseStr(string str)
 
 int main()
 {
-    reverseStr("Vinod");
+    reverseStr("Vinod"); // calling recursive function.
     return 0;
 }
