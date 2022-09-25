@@ -1,11 +1,13 @@
-
+// Problem: replace pi with 3.14 using recursion.
+// Input: pippppiiiipi
+// Output Must be: 3.14ppp3.14iii3.14 
 
 #include<iostream>
 using namespace std;
 
-void replacePi(string s)
+void replacePi(string s) // recursive function
 {
-    if(s.length()==0)
+    if(s.length()==0) // base condition
     {
         return;
     }
@@ -24,6 +26,10 @@ void replacePi(string s)
 
 int main()
 {
-    replacePi("pippppiiiipi");
+    // user input
+    string s;
+    cin>>s;
+    replacePi(s);
+    //replacePi("pippppiiiipi");
     return 0;
 }
