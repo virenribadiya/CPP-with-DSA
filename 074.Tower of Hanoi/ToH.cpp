@@ -1,9 +1,9 @@
-
+// Tower of Hanoi problem using recursion. // initialy taking 3 disks
 
 #include<iostream>
 using namespace std;
 
-void towerofHanoi(int n,char source,char helper,char dest)
+void towerofHanoi(int n,char source,char helper,char dest) // recursive function
 {
     if(n==1)
     {
@@ -16,7 +16,7 @@ void towerofHanoi(int n,char source,char helper,char dest)
     return;
 }
 
-int main()
+int main() // main function
 {
     towerofHanoi(3,'A','B','C');
     return 0;
