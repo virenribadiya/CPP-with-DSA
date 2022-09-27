@@ -1,8 +1,9 @@
+// program to move all the 'x' to the end of a string.
 
 #include<iostream>
 using namespace std;
 
-string moveToEnd(string s)
+string moveToEnd(string s) // reursive function
 {
     if(s.length()==0)
     {
