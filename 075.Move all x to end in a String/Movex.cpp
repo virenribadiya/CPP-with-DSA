@@ -5,7 +5,7 @@ using namespace std;
 
 string moveToEnd(string s) // reursive function
 {
-    if(s.length()==0)
+    if(s.length()==0)  // base case added
     {
         return "";
     }
