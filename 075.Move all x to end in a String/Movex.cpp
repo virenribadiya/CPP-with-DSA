@@ -19,6 +19,10 @@ string moveToEnd(string s) // reursive function
 
 int main()
 {
-    cout<<moveToEnd("xasddfxrfwgxxyx")<<endl;
+    string str;
+    cin.getline(str);
+    cin.ignore();
+    cout<<moveToEnd(str)<<endl;
+    //cout<<moveToEnd("xasddfxrfwgxxyx")<<endl;
     return 0;
 }
