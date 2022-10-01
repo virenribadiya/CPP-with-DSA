@@ -28,6 +28,7 @@ bool isSafe(int** arr, int x, int y, int n){
     }
     return true;
 }
+// recursive function
 bool nQueen(int** arr, int x,int n){
     if(x>=n){
         return true;
