@@ -6,7 +6,8 @@
 using namespace std;
 vector<vector<int>> ans;
 
-void permute(vector<int> &a, int idx){
+void permute(vector<int> &a, int idx) // recursive function
+{
     if(idx == a.size()){
         ans.push_back(a);
         return;
@@ -18,6 +19,7 @@ void permute(vector<int> &a, int idx){
     }
     return;
 }
+
 int32_t main(){
     int n;
     cin>>n;
@@ -25,10 +27,11 @@ int32_t main(){
     for(auto &i : a) 
         cin>>i;
     permute(a,0);
-    for(auto v : ans){
+    for(auto v : ans)
+    {
         for(auto i : v)
         cout<<i<<" ";
         cout<<"\n";
     }
-
+    return 0;
 }
