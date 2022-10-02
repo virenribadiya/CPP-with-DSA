@@ -1,5 +1,6 @@
 
 // A Permutation is a rearrangement of members of a sequence into a new sequence.
+// problem: Given an array nums of distinct integers return all the possible permutations. You can return the answer in any order.
 
 #include "bits/stdc++.h"
 using namespace std;
