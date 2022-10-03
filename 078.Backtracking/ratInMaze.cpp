@@ -1,8 +1,10 @@
 
-// Backtracking is an algorithm-technique for solving recursive problems by trying to build every possible solution incrementally and //removing those solutions that fail to satisfy the constraints of the problem at any point of time.
+/* 
+Backtracking is an algorithm-technique for solving recursive problems by trying to build every possible solution incrementally and
+removing those solutions that fail to satisfy the constraints of the problem at any point of time.
+*/
 
 #include<iostream>
-
 using namespace std;
 
 bool isSafe(int** arr , int x, int y, int n){
@@ -19,7 +21,8 @@ bool isSafe(int** arr , int x, int y, int n){
 
 }
 
-bool rateinMaze(int** arr, int x,int y,int n,int **solArr){
+bool rateinMaze(int** arr, int x,int y,int n,int **solArr) // recursive function
+{
 
     if(x==n-1 && y==n-1){
 
