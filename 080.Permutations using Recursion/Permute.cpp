@@ -26,7 +26,7 @@ int32_t main(){
     vector<int> a(n);
     for(auto &i : a) 
         cin>>i;
-    permute(a,0);
+    permute(a,0); // calling recursive function. 
     for(auto v : ans)
     {
         for(auto i : v)
