@@ -1,4 +1,7 @@
 // Program to implement merge sort algorithm.
+// It is based on divide and conquer.
+
+
 #include<iostream>
 using namespace std;
 
@@ -54,8 +57,10 @@ void mergeSort(int arr[],int f,int l)
     if(f<l)
     {
         int mid = (f+l)/2;
-        mergeSort(arr,f,mid);
+        // recursive call
+        mergeSort(arr,f,mid); 
         mergeSort(arr,mid+1,l);
+        // merge function call.
         merge(arr,f,mid,l);
     }
 }
