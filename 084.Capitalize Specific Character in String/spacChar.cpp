@@ -1,4 +1,4 @@
-
+// write a program in C++ that receives a string and a character as input and capitalizes all the given character from the given string.
 #include<iostream>
 #include<string.h>
 #include<stdio.h>
