@@ -1,4 +1,4 @@
-
+// To check whether the two strings are anagram or not in C++ programming.
 #include<iostream>
 
 #include<string.h>
