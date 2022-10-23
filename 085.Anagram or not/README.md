@@ -8,3 +8,6 @@ If two strings are anagram, then one string can be rearranged to form the other 
 
 abc and cba are anagram.
 creative and reactive are also anagram
+
+![image](https://user-images.githubusercontent.com/108461765/197399462-e8efd150-c837-4543-9112-7a7a3f4e0ba2.png)
+</center>
