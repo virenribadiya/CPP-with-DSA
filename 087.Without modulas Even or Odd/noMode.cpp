@@ -15,7 +15,7 @@ int main()
 		n = n-2; // if yes then decrease n by 2
 	}
 
-	if(n==0)
+	if(n==0) // after execution of upper while loop check if number becomes zero or not
 		cout<<"Even Number"<<endl;
 	else
 		cout<<"Odd Number"<<endl;
