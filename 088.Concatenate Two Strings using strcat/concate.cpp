@@ -1,3 +1,4 @@
+/*  C++ Program to Concatenate Two Strings using strcat  */
 #include<iostream>
 #include<string.h>
 using namespace std;
