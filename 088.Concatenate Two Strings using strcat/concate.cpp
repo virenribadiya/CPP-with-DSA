@@ -12,7 +12,7 @@ int main()
         cout<<"\nEnter Second String :: ";
         gets(str1);
 
-        strcat(str,str1);
+        strcat(str,str1); // inbuilt function having two arguments.
 
     cout<<"\nAfter Concatenating String is :: "<<str<<"\n";
 
