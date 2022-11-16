@@ -11,3 +11,6 @@ creative and reactive are also anagram
 
 ![image](https://user-images.githubusercontent.com/108461765/197399462-e8efd150-c837-4543-9112-7a7a3f4e0ba2.png)
 </center>
+
+## Example:
+![image](https://user-images.githubusercontent.com/108461765/202252855-65ae2ea3-a3d6-46a5-b7c1-c8e59736f90c.png)
